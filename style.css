@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box ;
+}
+.box{
+    border: 2px solid yellow;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-left: 550px;
+    margin-top: 200px ;
+    backdrop-filter: blur(4px   );
+}
+.title{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.submit{
+    background-color:aqua;
+    margin-top: 30px;
+    border: 2px solid aqua;
+}
+.result{
+    color: red;
+    font-size: 40px;
+}
+body{
+    background-image: url(https://banana.by/uploads/posts/2012-11/1353662380_17.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
